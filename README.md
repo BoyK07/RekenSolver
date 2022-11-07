@@ -1,6 +1,6 @@
 <h2 align="center"><u>RekenSolver</u></h2>
 
-![Don't waste your time making homework](images/banner.png)
+![Don't waste your time making homework](img/logo.png)
 <h4 align="center"> Don't waste your time making homework </h4>
 
 <p align="center">
