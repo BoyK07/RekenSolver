@@ -24,7 +24,7 @@ Uitgeverij Deviant Rekenmethode RekenSolver.
  - `pip install colorama`
 
 ### [+] Usage
- - `git clone https://github.com/BigFxckNoob/RekenSolver`
+ - `git clone https://github.com/BoyKrijnen/RekenSolver`
  - `python3 RekenSolver.py`
 
 ### [+] Credits 
