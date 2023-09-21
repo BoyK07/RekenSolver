@@ -9,7 +9,6 @@
 <br>
     <img src="https://img.shields.io/badge/Author-Sadcat & NoelP-magenta?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
-    <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
     <img src="https://img.shields.io/badge/Made%20In-Selenium-green?style=flat-square">
     <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
@@ -24,7 +23,7 @@ Uitgeverij Deviant Rekenmethode RekenSolver.
  - `pip install colorama`
 
 ### [+] Usage
- - `git clone https://github.com/BigFxckNoob/RekenSolver`
+ - `git clone https://github.com/BoyK07/RekenSolver`
  - `python3 RekenSolver.py`
 
 ### [+] Credits 
